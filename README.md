@@ -17,8 +17,8 @@ Main resource repository for the ISMB 2025 Tutorial IP2: Massively parallel repo
 
 #### Hands-on:
 
-  - [Association of Barcode/Tag Sequences](https://github.com/kircherlab/MPRAsnakeflow_tutorial/blob/main/tutorial_assignment.ipynb)
-  - [Count Sequencing Analysis](https://github.com/kircherlab/MPRAsnakeflow_tutorial/blob/main/tutorial_experiment.ipynb)
+  - **Association of Barcode/Tag Sequences**: [Jupyter/Colab notebook](https://github.com/kircherlab/MPRAsnakeflow_tutorial/blob/main/tutorial_assignment.ipynb)
+  - **Count Sequencing Analysis**: [Jupyter/Colab notebook](https://github.com/kircherlab/MPRAsnakeflow_tutorial/blob/main/tutorial_experiment.ipynb)
 
 Output files are described in `03_MPRAsnakeflow/README.md` and important results are copied to `03_MPRAsnakeflow/assignment_workflow` and `03_MPRAsnakeflow/experiment_workflow` folders.
 
