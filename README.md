@@ -11,6 +11,8 @@ Main resource repository for the ISMB 2025 Tutorial IP2: Massively parallel repo
 
 ### 03 Standard pipeline for MPRA analysis: MPRAsnakeflow
 
+
+External links:
 - [MPRAsnakeflow repository](https://github.com/kircherlab/MPRAsnakeflow)
 - [MPRAsnakeflow documentation](https://mprasnakeflow.readthedocs.io)
 - [MPRAsnakeflow tutorial](https://github.com/kircherlab/MPRAsnakeflow_tutorial/)
