@@ -23,4 +23,4 @@ Main resource repository for the ISMB 2025 Tutorial IP2: Massively parallel repo
 Output files are described in `03_MPRAsnakeflow/README.md` and important results are copied to `03_MPRAsnakeflow/assignment_workflow` and `03_MPRAsnakeflow/experiment_workflow` folders.
 
 
-### MPRA data analysis
+### 04 MPRA data analysis
