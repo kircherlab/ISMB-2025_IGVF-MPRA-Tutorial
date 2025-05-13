@@ -5,16 +5,22 @@ Main resource repository for the ISMB 2025 Tutorial IP2: Massively parallel repo
 
 ## Material
 
-### Introduction
+### 01 Introduction
 
-### Standard pipeline for MPRA analysis: MPRAsnakeflow
+### 02 Massively parallel reporter assays (MPRAs)
+
+### 03 Standard pipeline for MPRA analysis: MPRAsnakeflow
 
 - [MPRAsnakeflow repository](https://github.com/kircherlab/MPRAsnakeflow)
 - [MPRAsnakeflow documentation](https://mprasnakeflow.readthedocs.io)
 - [MPRAsnakeflow tutorial](https://github.com/kircherlab/MPRAsnakeflow_tutorial/)
-- Hands-on:
-  - Association of Barcode/Tag Sequences
-  - Count Sequencing Analysis
+
+#### Hands-on:
+
+  - [Association of Barcode/Tag Sequences](https://github.com/kircherlab/MPRAsnakeflow_tutorial/blob/main/tutorial_assignment.ipynb)
+  - [Count Sequencing Analysis](https://github.com/kircherlab/MPRAsnakeflow_tutorial/blob/main/tutorial_experiment.ipynb)
+
+Output files are described in `03_MPRAsnakeflow/README.md` and important results are copied to `03_MPRAsnakeflow/assignment_workflow` and `03_MPRAsnakeflow/experiment_workflow` folders.
 
 
 ### MPRA data analysis
