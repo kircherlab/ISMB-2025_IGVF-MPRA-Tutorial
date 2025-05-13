@@ -1,4 +1,4 @@
-# MPRAsnakeflow Materials
+# Materials: MPRAsnakeflow
 
 - [MPRAsnakeflow repository](https://github.com/kircherlab/MPRAsnakeflow)
 - [MPRAsnakeflow documentation](https://mprasnakeflow.readthedocs.io)

@@ -7,9 +7,9 @@ Main resource repository for the ISMB 2025 Tutorial IP2: Massively parallel repo
 
 ### 01 Introduction
 
-### 02 Massively parallel reporter assays (MPRAs)
+### 02 Massively Parallel Reporter Assays (MPRAs)
 
-### 03 Standard pipeline for MPRA analysis: MPRAsnakeflow
+### 03 Standard Pipeline for MPRA Analysis: MPRAsnakeflow
 
 #### External links:
 - [MPRAsnakeflow repository](https://github.com/kircherlab/MPRAsnakeflow)
@@ -23,5 +23,8 @@ Main resource repository for the ISMB 2025 Tutorial IP2: Massively parallel repo
 
 Output files are described in `03_MPRAsnakeflow/README.md` and important results are copied to `03_MPRAsnakeflow/assignment_workflow` and `03_MPRAsnakeflow/experiment_workflow` folders.
 
+### 04 MPRA Data Analysis
 
-### 04 MPRA data analysis
+#### 05 Sequence Models
+
+#### 06 Variant Effects and Motifs
