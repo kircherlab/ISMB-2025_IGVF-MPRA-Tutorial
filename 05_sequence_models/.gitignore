@@ -5,6 +5,6 @@
 02_data/hypothetical_contribution_scores.npz
 02_data/tfmodisco_report
 02_data/tfmodisco_report_all
-05_sequence_models/tfmodisco_report_all
+02_data/hypothetical_contribution_scores.npz.h5
 **motifs.html
 **motifs_all.html
