@@ -27,6 +27,6 @@ Output files are described in `03_MPRAsnakeflow/README.md`. Important results ar
 
 #### Hands-on:
 - **Training a sequence-based model**: [Jupyter/Colab notebook]()
-- **Interpreting models with in-silico mutagenesis**: [Jupyter/Colab notebook]()
+- **Interpreting models with in-silico mutagenesis**: [Jupyter/Colab notebook](https://github.com/kircherlab/ISMB-2025_IGVF-MPRA-Tutorial/blob/main/05_sequence_models/02_ism_and_tfmodisco.ipynb)
 
 ### 06 Variant Effects and Motifs
