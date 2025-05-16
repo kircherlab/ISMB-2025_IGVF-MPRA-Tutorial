@@ -50,3 +50,12 @@ The folder `experiment_workflow` contains the main results of the MPRAsnakeflow 
     1	oligo_002503	14	24	32.9679	20.1329	-0.7115	7
     1	oligo_002504	1	2	16.484	11.7442	-0.4891	1
     ```
+
+## QC Report Discussion
+
+You can view the QC reports here:
+
+- [QC report assignment workflow](https://kircherlab.github.io/mprasnakeflow/assignment.html)
+- [QC report experiment workflow](https://kircherlab.github.io/mprasnakeflow/experiment.html)
+
+For completness we also uploaded them in this repository (`qc_report.assignment.html` and `qc_report.experiment.html`)
