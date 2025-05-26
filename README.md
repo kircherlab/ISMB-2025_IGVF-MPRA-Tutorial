@@ -40,3 +40,6 @@ We show the WC report of the 5' lentiMPRA from [Klein, J.C., Agarwal, V., Inoue,
 - **Interpreting models with in-silico mutagenesis**: [Jupyter/Colab notebook](https://github.com/kircherlab/ISMB-2025_IGVF-MPRA-Tutorial/blob/main/05_sequence_models/02_ism_and_tfmodisco.ipynb)
 
 ### 06 Variant Effects and Motifs
+
+#### Hands-on:
+- **Linking motifs to variant effects**: [Jupyter/Colab notebook](https://github.com/kircherlab/ISMB-2025_IGVF-MPRA-Tutorial/blob/main/06_variant_effects_and_motifs/from_variant_effects_to_motifs.ipynb)
