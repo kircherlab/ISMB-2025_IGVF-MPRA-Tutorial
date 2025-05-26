@@ -30,6 +30,9 @@ We show the WC report of the 5' lentiMPRA from [Klein, J.C., Agarwal, V., Inoue,
 
 ### 04 MPRA Data Analysis
 
+#### Hands-on:
+- **Data Analysis Steps (Regions and Variants)**: [README](https://github.com/kircherlab/ISMB-2025_IGVF-MPRA-Tutorial/blob/main/04_MPRA_data_analysis/README.md), [Jupyter/Colab notebook](https://github.com/kircherlab/ISMB-2025_IGVF-MPRA-Tutorial/blob/main/04_MPRA_data_analysis/04_mpra_analysis.ipynb)
+
 ### 05 Sequence Models
 
 #### Hands-on:
