@@ -23,10 +23,10 @@ Output files are described in `03_MPRAsnakeflow/README.md`. Important results ar
 
 #### Discussion of QC metrics
 
-We show the WC report of the 5' lentiMPRA from [Klein, J.C., Agarwal, V., Inoue, F. et al. A systematic evaluation of the design and context dependencies of massively parallel reporter assays. Nat Methods 17, 1083–1091 (2020).](https://doi.org/10.1038/s41592-020-0965-y). 
+We show the QC report of the 5' lentiMPRA from [Klein, J.C., Agarwal, V., Inoue, F. et al. A systematic evaluation of the design and context dependencies of massively parallel reporter assays. Nat Methods 17, 1083–1091 (2020).](https://doi.org/10.1038/s41592-020-0965-y). 
 
-- [QC report assignment workflow](https://kircherlab.github.io/mprasnakeflow/assignment.html)
-- [QC report experiment workflow](https://kircherlab.github.io/mprasnakeflow/experiment.html)
+- [QC report assignment workflow](https://htmlpreview.github.io/?https://github.com/kircherlab/ISMB-2025_IGVF-MPRA-Tutorial/blob/main/03_MPRAsnakeflow/qc_report.assignment.html)
+- [QC report experiment workflow](https://htmlpreview.github.io/?https://github.com/kircherlab/ISMB-2025_IGVF-MPRA-Tutorial/blob/main/03_MPRAsnakeflow/qc_report.experiment.html)
 
 ### 04 MPRA Data Analysis
 
