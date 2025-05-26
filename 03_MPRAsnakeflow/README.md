@@ -55,8 +55,9 @@ The folder `experiment_workflow` contains the main results of the MPRAsnakeflow 
 
 You can view the QC reports from the tutorial here:
 
-- [QC report assignment workflow](https://kircherlab.github.io/mprasnakeflow/assignment.html)
-- [QC report experiment workflow](https://kircherlab.github.io/mprasnakeflow/experiment.html)
+- [QC report assignment workflow](https://htmlpreview.github.io/?https://github.com/kircherlab/ISMB-2025_IGVF-MPRA-Tutorial/blob/main/03_MPRAsnakeflow/assignment_workflow/qc_report.default.html)
+- [QC report experiment workflow - default config](https://htmlpreview.github.io/?https://github.com/kircherlab/ISMB-2025_IGVF-MPRA-Tutorial/blob/main/03_MPRAsnakeflow/experiment_workflow/qc_report.HepG2.MPRAworkshop.default.html)
+- - [QC report experiment workflow - tutorial config](https://htmlpreview.github.io/?https://github.com/kircherlab/ISMB-2025_IGVF-MPRA-Tutorial/blob/main/03_MPRAsnakeflow/experiment_workflow/qc_report.HepG2.MPRAworkshop.tutorialConfig.html)
 
 This is only a subpart of a data-set and therfore has no perfict quality. Here you can view QC reports of the 5' lentiMPRA from [Klein, J.C., Agarwal, V., Inoue, F. et al. A systematic evaluation of the design and context dependencies of massively parallel reporter assays. Nat Methods 17, 1083–1091 (2020).](https://doi.org/10.1038/s41592-020-0965-y). 
 
