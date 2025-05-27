@@ -8,6 +8,7 @@ Welcome! This directory contains resources and code for analyzing the effects of
 - **from_variant_effects_to_motifs.ipynb**
   *Main tutorial notebook:* Step-by-step workflow for linking variant effects to TF motifs, including data loading, FIMO analysis, and interpretation.
 - **resources/**
+
   *Supporting data files:*
   - Motif databases (e.g., HOCOMOCO .meme files)
   - Example variant FASTA files
@@ -43,10 +44,13 @@ Welcome! This directory contains resources and code for analyzing the effects of
 ## Getting Started
 
 1. **Open the notebook:**
+
    `from_variant_effects_to_motifs.ipynb`
-2. **Explore the resources:**
+3. **Explore the resources:**
+
    Check the `resources/` folder for input data and motif files.
-3. **Run the workflow:**
+4. **Run the workflow:**
+
    Follow the notebook cells for a guided analysis.
 
 For questions or suggestions, please contact the tutorial authors.
