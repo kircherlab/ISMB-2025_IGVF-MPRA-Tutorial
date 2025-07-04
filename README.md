@@ -7,7 +7,7 @@ PDF conversions of the [preliminary slides are already available](https://github
 We will work with Jupyter notebooks on Google Colab. If you would like to familiarize yourself with those, please check out: [https://colab.research.google.com/notebook
 ](https://colab.research.google.com/#scrollTo=GJBs_flRovLc)
 
-If you want to make sure that you will be able to run these notebooks with your Google account, please try to start with the first [tutorioal](https://github.com/kircherlab/MPRAsnakeflow_tutorial/blob/main/tutorial_assignment.ipynb).
+If you want to make sure that you will be able to run these notebooks with your Google account, please try to start with the first [tutorial](https://github.com/kircherlab/MPRAsnakeflow_tutorial/blob/main/tutorial_assignment.ipynb).
 
 ## Material
 
