@@ -3,7 +3,7 @@
 
 ## Hands-on: Training a sequence-based model
 
-Notebook: [01_training_sequence_model.ipynb](https://github.com/kircherlab/ISMB-2025_IGVF-MPRA-Tutorial/blob/main/05_sequence_models/02_ism_and_tfmodisco.ipynb)
+Notebook: [01_training_sequence_model.ipynb](https://github.com/kircherlab/ISMB-2025_IGVF-MPRA-Tutorial/blob/main/05_sequence_models/01_training_sequence_model.ipynb)
 
 ### Data
 
