@@ -5,7 +5,7 @@
 02_data/scores_for_modisco.npz
 02_data/hypothetical_contribution_scores.npz
 02_data/tfmodisco_report
-02_data/tfmodisco_report_all
+!02_data/tfmodisco_report_all
 02_data/hypothetical_contribution_scores.npz.h5
 **motifs.html
-**motifs_all.html
+!motifs_all.html
